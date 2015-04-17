@@ -1,0 +1,15 @@
+E:\firstWeb\BookMovie\BookMovie\bin\BookMovie.dll
+E:\firstWeb\BookMovie\BookMovie\bin\BookMovie.pdb
+E:\firstWeb\BookMovie\BookMovie\obj\Debug\BookMovie.dll
+E:\firstWeb\BookMovie\BookMovie\obj\Debug\BookMovie.pdb
+E:\firstWeb\BookMovie\BookMovie\obj\Debug\BookMovie.csprojResolveAssemblyReference.cache
+C:\vs2012\BookMovie\BookMovie\bin\BookMovie.dll
+C:\vs2012\BookMovie\BookMovie\bin\BookMovie.pdb
+C:\vs2012\BookMovie\BookMovie\obj\Debug\BookMovie.csprojResolveAssemblyReference.cache
+C:\vs2012\BookMovie\BookMovie\obj\Debug\BookMovie.dll
+C:\vs2012\BookMovie\BookMovie\obj\Debug\BookMovie.pdb
+C:\Users\Deepak\Desktop\BookMovie\BookMovie\obj\Debug\BookMovie.csprojResolveAssemblyReference.cache
+C:\Users\Deepak\Desktop\BookMovie\BookMovie\obj\Debug\BookMovie.dll
+C:\Users\Deepak\Desktop\BookMovie\BookMovie\bin\BookMovie.dll
+C:\Users\Deepak\Desktop\BookMovie\BookMovie\bin\BookMovie.pdb
+C:\Users\Deepak\Desktop\BookMovie\BookMovie\obj\Debug\BookMovie.pdb
